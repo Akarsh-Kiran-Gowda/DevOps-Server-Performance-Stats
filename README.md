@@ -18,3 +18,4 @@ After setting the executable permission, you can launch the script by running:
 ```
 
 Below is the result I got on my OS:
+![image](https://github.com/user-attachments/assets/24777f82-7e6b-49cc-b581-5b9926dec983)
